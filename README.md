@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman-Adam
-- 👀 I’m interested in Data analysis & game design
+- 👀 I’m interested in Data analysis & Adminstration such as linux, widows server ,etc
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
