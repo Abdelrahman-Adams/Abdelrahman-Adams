@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelrahman-Adam
-- 👀 I’m interested in Data analysis & Adminstration such as linux, widows server ,etc
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in Data analysis & Cloud tools
+- 🌱 I’m currently learning AI & Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
